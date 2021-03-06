@@ -27,3 +27,4 @@ C:\Users\vitor\OneDrive\Área de Trabalho\ApiCatalogoJogos\obj\Debug\net5.0\ApiC
 C:\Users\vitor\OneDrive\Área de Trabalho\ApiCatalogoJogos\obj\Debug\net5.0\ref\ApiCatalogoJogos.dll
 C:\Users\vitor\OneDrive\Área de Trabalho\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.pdb
 C:\Users\vitor\OneDrive\Área de Trabalho\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\ApiCatalogoJogos\bin\Debug\net5.0\ApiCatalogoJogos.xml

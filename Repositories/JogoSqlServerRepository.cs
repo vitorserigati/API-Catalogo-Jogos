@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
 
-namespace ApiCatalogoJogos.Repositories
+/*namespace ApiCatalogoJogos.Repositories
 {
     public class JogoSqlServerRepository : IJogoRepository
     {
@@ -130,4 +130,4 @@ namespace ApiCatalogoJogos.Repositories
             sqlConnection?.Dispose();
         }
     }
-}
+}*/
